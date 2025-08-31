@@ -1,5 +1,7 @@
 # Radiology Segmentation Prompt Generator
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
+
 ## Project Overview
 
 This project generates segmentation prompts for radiology tasks based on clinical notes. Given a clinical note, the system produces structured prompts to assist segmentation in medical imaging.
